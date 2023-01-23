@@ -1,0 +1,19 @@
+name: SciPy
+channels:
+- conda-forge
+dependencies:
+- numpy
+- scipy
+- matplotlib
+- jupyter
+- notebook
+- jupyter_contrib_nbextensions
+- jupyterlab
+- jupyterlab-git
+- gitpython
+- jupytext
+- pip
+- pip:
+  - watermark
+  - jupyterlab-github==3.0.1
+
