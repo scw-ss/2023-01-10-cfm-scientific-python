@@ -3,7 +3,7 @@ Software Carpentry Workshop - Materials Physics Center (CFM)
 ************************************************************
 
 :Date & place: Software Carpentry Workshop - Materials Phyiscs Center (CFM),
-               December 16th, 2019, and January 14, 15, 16 and 23rd, 2020 (`workshop webpage`_). Thursday 16th  session.
+               January 10, 17, 19 and 27th, 2023 (`workshop webpage`_). Friday 27th  session.
 :Content: Introduction to Scientific Python
 :Instructors: Iñigo Aldazabal Mensa <inigo.aldazabalm@ehu.eus>
               
@@ -44,7 +44,7 @@ This work is licensed under a `Creative Commons Attribution-ShareAlike 4.0
 International License`_.
 
 
-.. _`workshop webpage`: http://iamc.eu/2019-12-16-cfm
+.. _`workshop webpage`: http://iamc.eu/2023-01-10-cfm
 .. _`Creative Commons Attribution-ShareAlike 4.0 International License`: http://creativecommons.org/licenses/by-sa/4.0
 .. _`SciPy`: http://www.scipy.org
 .. _`Anaconda`: https://www.anaconda.com/download
@@ -54,6 +54,6 @@ International License`_.
 .. _`tutorial material`: https://github.com/PythonSanSebastian/numpy_euroscipy2015
 .. _`NumPy`: http://www.numpy.org/
 .. _`SciPy 2013 Tutorial`: https://github.com/esc/scipy2013-tutorial-numpy-ipython
-.. _`installation instructions`: http://iamc.eu/2019-12-16-cfm/#setup
+.. _`installation instructions`: http://iamc.eu/2023-01-10-cfm/#setup
 
 
