@@ -1,4 +1,4 @@
-name: SciPy
+name: scipy-intro
 channels:
 - conda-forge
 dependencies:
